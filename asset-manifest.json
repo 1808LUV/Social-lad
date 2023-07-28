@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Social-lad/static/css/main.c2cea138.css",
+    "main.js": "/Social-lad/static/js/main.c3b8d225.js",
+    "index.html": "/Social-lad/index.html",
+    "main.c2cea138.css.map": "/Social-lad/static/css/main.c2cea138.css.map",
+    "main.c3b8d225.js.map": "/Social-lad/static/js/main.c3b8d225.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cea138.css",
+    "static/js/main.c3b8d225.js"
+  ]
+}
